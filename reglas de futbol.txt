@@ -1,0 +1,58 @@
+<html>
+<head>
+<title> Deportes  </title>
+</head>
+<style> 
+body {
+    background-image: url('2.jpg');
+    background-size: cover; /* 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+</style>
+<body background="2.jpg">
+<h1 style="text-align:center"> ¿como se juega el futbol? </h1>  
+<p style="text-align:center" > 
+El fútbol, también conocido como soccer en algunos países, es un deporte de equipo jugado con una pelota en un campo rectangular. El objetivo principal del fútbol es marcar más goles que el equipo contrario. Un gol se anota cuando la pelota cruza completamente la línea de gol entre los postes y por encima de la barra transversal. Un partido de fútbol estándar consta de dos tiempos de 45 minutos cada uno, con un descanso de 15 minutos entre ellos. En algunas competiciones, como las finales de copas, se pueden jugar tiempos extra de 15 minutos cada uno si el marcador está empatado al final del tiempo reglamentario. Si el empate persiste, el partido se decide mediante tiros desde el punto penal. </p> 
+<p style="text-align:center" > El fútbol requiere una combinación de habilidad técnica, táctica y condición física. Los jugadores deben ser hábiles en el control del balón, pasar, disparar y tener una buena comprensión del juego para tomar decisiones tácticas rápidas.Existen varias variantes del fútbol, como el fútbol sala (jugado en una cancha más pequeña con menos jugadores) y el beach soccer (jugado en la arena). </p>
+
+ <h2 style="text-align:center"> Reglas basicas del fútbol  </h2> 
+	<p style="text-align:center" > <b> Campo de fútbol: </b>
+El campo debe ser rectangular y tener líneas de banda y de fondo. Las dimensiones típicas son de 100-130 metros de largo y 64-90 metros de ancho. </p>
+<br> <p style="text-align:center" >
+<b> El Balón:</b>
+El balón debe ser esférico y de circunferencia entre 68 y 70 cm para hombres, y entre 66 y 69 cm para mujeres. El peso debe estar entre 410 y 450 gramos para hombres, y entre 390 y 445 gramos para mujeres.</p>
+<br> <p style="text-align:center" >
+<b> Árbitros: </b>
+Un árbitro principal, dos asistentes (línesmen) y un cuarto árbitro son responsables de hacer cumplir las reglas y tomar decisiones durante el partido.
+ </p>
+<br> <p style="text-align:center" >
+<b> Faltas y infracciones:</b>
+Falta Directa: Se patea un tiro libre directo si un jugador comete una falta que impide claramente una oportunidad de gol o comete una falta grave (como patear, golpear o empujar a un oponente).
+Falta Indirecta: Se patea un tiro libre indirecto para infracciones menos graves, como jugar peligrosamente o obstaculizar el avance de un oponente.
+Fuera de Juego: Un jugador está en fuera de juego si está más cerca de la línea de gol del oponente que el balón y el penúltimo defensor cuando el balón es pasado por un compañero de equipo. No se aplica en tiros libres, córners o saques de puerta.
+ </p>
+<br> <p style="text-align:center" >
+<b> Saques: </b>
+Saque de Centro: Se realiza al inicio del partido y después de cada gol.
+Saque de Banda (Throw-in): Se realiza cuando el balón sale completamente por una línea de banda. El jugador debe lanzar el balón con ambas manos por encima de la cabeza.
+Saque de Puerta (Goal Kick): Se realiza cuando el balón sale completamente por la línea de gol después de haber sido tocado por último por un jugador del equipo atacante.
+Córner (Corner Kick): Se realiza cuando el balón sale completamente por la línea de gol después de haber sido tocado por último por un jugador del equipo defensor. </p>
+<p style="text-align:center" > <a target="_blank" href="file:///F:/Deportes.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 1 </a> 
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20futbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 2 </a> </th>
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20voleibol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 3 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20golf.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 4 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20béisbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 5 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20tenis.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 6 </a> </th>
+</p>
+
+
+<img src="cam.jpg"/>  
+<img src="fut.jpeg"/>
+
+
+
+
+</body>
+</html>

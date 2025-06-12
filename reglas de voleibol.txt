@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> Deportes-reglas de voleibol  </title>
+</head>
+<style> 
+body {
+    background-image: url('bl.jpg');
+    background-size: cover; /* 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+</style>
+<body background="bl.jpg">
+<h1 style="text-align:center"> ¿Como se juega el voleibol? </h1>  
+<p style="text-align:center" > 
+El voleibol es un deporte de equipo jugado con una pelota en una cancha dividida por una red. El objetivo del voleibol es pasar la pelota por encima de la red y hacer que toque el suelo en el campo contrario, mientras que el equipo contrario intenta evitarlo. Un punto se gana cuando el equipo contrario no puede devolver la pelota o comete una falta.</p> 
+<p style="text-align:center" > Un partido de voleibol estándar consta de hasta cinco sets. Los primeros cuatro sets se juegan a 25 puntos, y el quinto set (si es necesario) se juega a 15 puntos. Un equipo debe ganar por al menos 2 puntos para ganar un set. Si el marcador llega a 24-24 en los primeros cuatro sets o 14-14 en el quinto set, el juego continúa hasta que un equipo tenga una ventaja de 2 puntos. Cada equipo está compuesto por 6 jugadores en la cancha, con un máximo de 12 jugadores en el banquillo que pueden ser sustitutos. Los jugadores se especializan en diferentes posiciones, como colocador, atacante, defensa, líbero y central. </p>
+
+ <h2 style="text-align:center"> Reglas del voleibol </h2> 
+	<p style="text-align:center" > <b> Campó de juego:</b>
+
+La cancha de voleibol es rectangular y mide 18 metros de largo por 9 metros de ancho, dividida en dos campos iguales por una red que mide 2,43 metros de alto para hombres y 2,24 metros para mujeres.</p>
+<br> <p style="text-align:center" >
+<b> El Balón:</b>
+El balón debe ser esférico y de circunferencia entre 65 y 67 cm, con un peso entre 260 y 280 gramos. </p>
+<br> <p style="text-align:center" >
+<b> Árbitros: </b>
+Un árbitro principal, dos segundos árbitros y varios jueces de línea son responsables de hacer cumplir las reglas y tomar decisiones durante el partido.</p>
+<br> <p style="text-align:center" >
+<b> Rotación </b>
+Los jugadores deben rotar en sentido contrario a las agujas del reloj después de que su equipo gane el saque. Esto asegura que cada jugador ocupe todas las posiciones en la cancha durante el juego.
+ </p>
+<p style="text-align:center" >
+<b> Faltas:</b>
+Falta de Saque: El saque no es válido si el saqueador pisa la línea de saque, si el saque no pasa por encima de la red, o si el saque toca la red y cae en el campo del saqueador.
+Falta de Red: Un jugador toca la red durante el juego, o la pelota se enreda en la red y cae en el campo del equipo que la tocó por última vez.
+Falta de Piso: Un jugador toca el suelo fuera de los límites de su campo.
+Falta de Toque: Un jugador toca la pelota más de tres veces, o la pelota toca cualquier parte del cuerpo de un jugador más de tres veces en sucesión. </p>
+<br> 
+<img src="vo.avif"/>  <img src="vole.avif"/>
+
+<p style="text-align:center" > <a target="_blank" href="file:///F:/Deportes.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 1 </a> 
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20futbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 2 </a> </th>
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20voleibol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 3 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20golf.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 4 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20béisbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 5 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20tenis.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 6 </a> </th>
+</p>
+
+
+<br> 
+
+
+
+</body> 
+</html>

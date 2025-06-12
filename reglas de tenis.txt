@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> Deportes-Reglas de Tennis </title>
+</head>
+<style> 
+body {
+    background-image: url('ft.jpg');
+    background-size: cover; /* 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+</style>
+<body background="ft.jpg">
+<h1 style="text-align:center"> ¿como se juega el Tenis? </h1>  
+<p style="text-align:center" > 
+El tenis es un deporte de raqueta jugado entre dos jugadores (individuales) o entre dos equipos de dos jugadores (dobles). El objetivo es golpear una pelota sobre una red de modo que el oponente no pueda devolverla válidamente. El objetivo del tenis es ganar puntos golpeando la pelota de tal manera que el oponente no pueda devolverla válidamente. El primer jugador o equipo en ganar el número requerido de juegos y sets gana el partido.</p> 
+<p style="text-align:center" > La duración de un partido de tenis puede variar, pero un partido típico consta de tres o cinco sets. En los partidos de individuales del Grand Slam, los hombres juegan al mejor de cinco sets, mientras que las mujeres y los dobles juegan al mejor de tres sets. Cada set se gana ganando al menos seis juegos, con una ventaja de al menos dos juegos sobre el oponente. Si el set llega a 6-6, se juega un tie-break para decidir el ganador del set, excepto en el quinto set de los partidos de individuales masculinos en el Grand Slam. </p>
+
+ <h2 style="text-align:center"> Reglas del Tenis </h2> 
+	<p style="text-align:center" > <b> Campo de juego:</b>
+La cancha de tenis es rectangular y mide 78 pies (23.77 m) de largo y 27 pies (8.23 m) de ancho para individuales, y 36 pies (10.97 m) de ancho para dobles. La red divide la cancha en dos mitades iguales y mide 3 pies (0.91 m) de alto en el centro y 3.5 pies (1.07 m) de alto en los postes. </p>
+<br> <p style="text-align:center" >
+<b> pelota: </b>
+La pelota de tenis es amarilla y mide aproximadamente 2.57 a 2.70 pulgadas (6.54 a 6.86 cm) de diámetro. Está llena de aire y tiene una presión interna específica.</p>
+<br> <p style="text-align:center" >
+<b> Faltas: </b>
+Falta de Pie: El servidor comete una falta de pie si ambos pies no están en contacto con el suelo detrás de la línea de fondo cuando golpea la pelota.
+Falta de Saque: El servidor comete una falta de saque si la pelota toca la red y cae en la cancha del servidor, o si la pelota sale de los límites de la cancha del oponente.
+Toque de Red: Si la pelota golpea la red pero cae dentro de los límites de la cancha del oponente, el punto sigue en juego. </p>
+<br> <p style="text-align:center" >
+<b> Servicio:</b>
+El servicio se realiza desde detrás de la línea de fondo, alternando entre el lado derecho e izquierdo de la cancha. El servidor debe lanzar la pelota con una mano y golpearla con la raqueta antes de que toque el suelo. El servicio debe pasar por encima de la red y caer en el servicio contrario del oponente. </p>
+<p style="text-align:center" >
+<b> Cambios de lado:</b>
+Los jugadores cambian de lado después de cada juego impar (1, 3, 5, etc.) y después de cada set. En los tie-breaks, los jugadores cambian de lado después de cada seis puntos. </p>
+<br> 
+<img src="ten.jpg"/>  <img src=""/>
+
+<p style="text-align:center" > <a target="_blank" href="file:///F:/Deportes.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 1 </a> 
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20futbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 2 </a> </th>
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20voleibol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 3 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20golf.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 4 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20béisbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 5 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20tenis.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 6 </a> </th>
+</p>
+
+
+<br> 
+
+
+
+</body> 
+</html>

@@ -1,0 +1,55 @@
+<html>
+<head>
+<title> Deportes-Reglas de Golf </title>
+</head>
+<style> 
+body {
+    background-image: url('golf.jpg');
+    background-size: cover; /* 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+</style>
+<body background="golf.jpg">
+<h1 style="text-align:center"> ¿como se juega? </h1>  
+<p style="text-align:center" > 
+El golf es un deporte en el que los jugadores utilizan varios tipos de palos para golpear una pelota en una serie de hoyos en un campo, con el objetivo de embocar la pelota en el hoyo en el menor número de golpes posibles. </p> 
+<p style="text-align:center" > El objetivo del golf es completar el recorrido (o "round") en el menor número de golpes posibles. Un recorrido estándar consta de 18 hoyos, aunque también se juegan recorridos de 9 hoyos.Un campo de golf típico consta de 18 hoyos, cada uno con su propia configuración única de obstáculos como bunkers, agua, árboles y colinas. Cada hoyo tiene una teé de salida, una zona de fairway, y un green con el hoyo.
+ </p>
+
+ <h2 style="text-align:center"> Reglas de el Golf </h2> 
+	<p style="text-align:center" > <b> Golpe de salida:</b>
+
+El jugador con el mejor handicap (menor número de golpes por encima del par) tiene el honor de golpear primero en el primer hoyo. En los siguientes hoyos, el jugador que ganó el hoyo anterior golpea primero.</p>
+<br> <p style="text-align:center" >
+<b> Juego en el Fairway:</b>
+Después del golpe de salida, los jugadores intentan colocar la pelota en el green en el menor número de golpes posible. El fairway es la zona de césped cortado que conduce al green.</p>
+<br> <p style="text-align:center" >
+<b> Handicap: </b>
+El handicap es un sistema que permite a los golfistas de diferentes habilidades competir entre sí. Se basa en la diferencia entre el número de golpes realizados por un jugador y el par del campo. </p>
+<br> <p style="text-align:center" >
+<b> Stableford:</b>
+Es un sistema de puntos donde los jugadores reciben puntos en función de su rendimiento en cada hoyo en comparación con el par. El jugador con la mayor cantidad de puntos al final del recorrido gana. </p>
+<p style="text-align:center" >
+<b> Sanciones:</b>
+Existen sanciones por infracciones, como no contar los golpes correctamente o no seguir las reglas de juego. Las sanciones pueden incluir golpes adicionales o descalificación.</p>
+<br> 
+<img src="cf.jpg"/> 
+
+<p style="text-align:center" > <a target="_blank" href="file:///F:/Deportes.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 1 </a> 
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20futbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 2 </a> </th>
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20voleibol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 3 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20golf.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 4 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20béisbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 5 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20tenis.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 6 </a> </th>
+</p>
+
+
+
+<br> 
+
+
+
+</body> 
+</html>

@@ -1,0 +1,55 @@
+<html>
+<head>
+<title> Deportes-Reglas de béisbol </title>
+</head>
+<style> 
+body {
+    background-image: url('beis.jpg');
+    background-size: cover; /* 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+</style>
+<body background="beis.jpg">
+<h1 style="text-align:center"> ¿como se juega el béisbol? </h1>  
+<p style="text-align:center" > 
+El béisbol es un deporte de equipo que se juega con un bate y una pelota entre dos equipos, cada uno compuesto por nueve jugadores. El objetivo del béisbol es anotar más carreras que el equipo contrario. Una carrera se anota cuando un corredor toca todas las bases (primera, segunda, tercera) y regresa a la home plate después de que un compañero de equipo golpee la pelota en juego. </p> 
+<p style="text-align:center" > Un partido de béisbol estándar consta de nueve entradas, cada una dividida en dos mitades: la parte superior (top) y la parte inferior (bottom). Cada equipo batea en una de las mitades y defiende en la otra. Si el marcador está empatado al final de las nueve entradas, el juego entra en tiempos extra hasta que un equipo gane.Cada equipo está compuesto por nueve jugadores en el campo: un lanzador, un cátcher, cuatro infielders (primera base, segunda base, tercera base y shortstop) y tres outfielders (left fielder, center fielder y right fielder). </p>
+
+ <h2 style="text-align:center"> Reglas del béisbol </h2> 
+	<p style="text-align:center" > <b> Campo de juego:</b>
+
+El campo de béisbol es un diamante con cuatro bases: home plate, primera base, segunda base y tercera base. Las bases están separadas por 90 pies (27.43 metros). El área entre las bases se conoce como el infield, y el área más allá del infield se conoce como el outfield. </p>
+<br> <p style="text-align:center" >
+<b> Pelota y guante:</b>
+La pelota de béisbol es blanca con costuras rojas y mide aproximadamente 9 pulgadas (22.86 cm) de circunferencia. Los jugadores utilizan guantes para atrapar la pelota.</p>
+<br> <p style="text-align:center" >
+<b> Turno al bate: </b>
+El equipo en turno al bate intenta golpear la pelota lanzada por el pitcher del equipo contrario. El bateador intenta golpear la pelota en juego para avanzar por las bases. </p>
+<br> <p style="text-align:center" >
+<b> Outs:</b>
+Un out se puede lograr de varias maneras: golpeando una pelota en foul en el tercer strike, siendo golpeado por una pelota lanzada (si el bateador no intenta esquivarla), siendo forzado a una base ocupada, o siendo eliminado por un jugador del equipo defensor que atrapa la pelota en vuelo o toca al corredor con la pelota antes de que llegue a una base segura.
+</p>
+<p style="text-align:center" >
+<b> Strikes y bolas:</b>
+Un strike se cuenta cuando el bateador falla en golpear una pelota lanzada dentro de la zona de strike, o cuando golpea una pelota en foul (excepto en el tercer strike). Un ból se cuenta cuando el lanzador lanza una pelota fuera de la zona de strike y el bateador no intenta golpearla. Cuatro bolas conceden un pase al bateador, permitiéndole avanzar a primera base. Tres strikes resultan en un out.</p>
+<br> 
+<img src="cb.jpg"/>  <img src=""/>
+
+<p style="text-align:center" > <a target="_blank" href="file:///F:/Deportes.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 1 </a> 
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20futbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 2 </a> </th>
+ <th> <a target="_blank" href="file:///F:/reglas%20de%20voleibol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 3 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20golf.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 4 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20béisbol.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 5 </a> </th>
+ <th>  <a target="_blank" href="file:///F:/reglas%20de%20tenis.html" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;"> 6 </a> </th>
+</p>
+
+
+
+<br> 
+
+
+
+</body> 
+</html>
